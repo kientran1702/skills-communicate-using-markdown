@@ -4,3 +4,5 @@
 ###### Sixth is the smallest header
 
 This change is to test the header using Markdown
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
