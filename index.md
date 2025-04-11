@@ -15,3 +15,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` C++
 std::string test {"Hello World"};
 ```
+
+- [ ] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
